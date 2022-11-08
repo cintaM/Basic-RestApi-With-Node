@@ -12,20 +12,23 @@ Maded with:
 
 Getting all items.
 
-C:\Users\cinta\OneDrive\Escritorio\APINew\imgs\getall.jpg
+![getall](https://user-images.githubusercontent.com/108800755/200597030-725e92a3-7828-4cc5-be26-26394198f310.jpg)
 
 Get elements by Id.
 
-C:\Users\cinta\OneDrive\Escritorio\APINew\imgs\getone.jpg
+![getone](https://user-images.githubusercontent.com/108800755/200597103-4ba1b8ef-44f8-443a-8cc5-3d3692f4adeb.jpg)
+
 
 Add elements.
 
-C:\Users\cinta\OneDrive\Escritorio\APINew\imgs\post.jpg
+![post](https://user-images.githubusercontent.com/108800755/200597157-91ac3ff7-5894-4b11-900e-c557ad3392c6.jpg)
+
 
 Modify elements.
 
-C:\Users\cinta\OneDrive\Escritorio\APINew\imgs\update.jpg
+![update](https://user-images.githubusercontent.com/108800755/200597188-4f80ddd3-1bf1-41c1-92c0-fffab802f6c9.jpg)
 
 Delete elements. 
 
-C:\Users\cinta\OneDrive\Escritorio\APINew\imgs\delete.jpg
+![delete](https://user-images.githubusercontent.com/108800755/200597225-a772d0f1-416d-4560-becb-ef587f3562ba.jpg)
+
