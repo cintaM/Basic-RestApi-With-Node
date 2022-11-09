@@ -13,7 +13,7 @@ export const internalError = (res: Response, err: Error) =>{
 }
 
 export const notFound = (res: Response, err: string) =>{
-    res.status(505).json({
+    res.status(404).json({
         err
     })
 }
